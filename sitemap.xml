@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://fio4ever.github.io/about-me.html</loc>
+        <lastmod>2013-10-13T01:45:20-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://fio4ever.github.io/blog/archives/</loc>
-        <lastmod>2013-10-13T00:08:25-07:00</lastmod>
+        <lastmod>2013-10-13T01:26:27-07:00</lastmod>
     </url>
     <url>
         <loc>http://fio4ever.github.io/</loc>
-        <lastmod>2013-10-13T00:08:25-07:00</lastmod>
+        <lastmod>2013-10-13T01:26:27-07:00</lastmod>
     </url>
     <url>
         <loc>http://fio4ever.github.io/robots.txt</loc>
-        <lastmod>2013-10-13T00:08:25-07:00</lastmod>
+        <lastmod>2013-10-13T01:26:27-07:00</lastmod>
     </url>
 </urlset>
